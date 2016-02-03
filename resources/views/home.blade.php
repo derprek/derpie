@@ -1,25 +1,18 @@
 <!DOCTYPE HTML>
-<!--
-	Ion by TEMPLATED
-	templated.co @templatedco
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
--->
 
 @include('partials/cssReference')
 @include('partials/jsReference')
 
 <html>
-
 	<link rel="icon"  href="images/me.jpg">
-	@include('partials/projectsModal')
 
 	<head>
 		<title>Derek's Resume</title>
-		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-		<meta name="description" content="" />
-		<meta name="keywords" content="" />
-		<!--[if lte IE 8]><script src="js/html5shiv.js"></script><![endif]-->
+		<meta charset="utf-8">
+	    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	    <meta name="viewport" content="width=device-width, initial-scale=1">
 	</head>
+
 	<body id="top">
 
 		<!-- Header -->
