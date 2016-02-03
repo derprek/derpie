@@ -54,7 +54,7 @@
 					<div class="row">
 						<div class="12u">
 							<section class="special">
-								<a href="#" ><img src="images/uq.jpg" alt="" /></a>
+								<a href="#" ><img src="images/uq.jpg" class="img-responsive" style="margin:0 auto;" alt="" /></a>
 								<br><br>
 								<h3>University of Queensland, Australia</h3>
 								<span style="display:inline-block;">
