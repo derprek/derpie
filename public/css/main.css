@@ -1,0 +1,20 @@
+.test
+{ 
+    width:60%;
+    text-align:center; 
+    border-top: 1px dotted #8c8b8b;
+    line-height:0.1em; 
+    margin:0 auto;
+} 
+
+.test span 
+{ 
+    background:#fff; 
+    color:#000;
+    padding:0 10px; 
+}
+
+.modal-dialog
+{
+	top:10%;
+} 
