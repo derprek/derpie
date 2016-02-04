@@ -87,7 +87,7 @@
 													<a href="#" ><img src="images/final_logo.png" style="width:40%;"/></a>
 													<br><br>
 
-													<a class="button alt" style="background-color:#364c61;" href="http://128.199.244.148" target="_blank"><p style="color:white;">View Live Demo</p></a>
+													<a class="button alt" style="background-color:#3498db;" href="http://128.199.244.148" target="_blank"><p style="color:white;">View Live Demo</p></a>
 
 												</section>
 											</div>
