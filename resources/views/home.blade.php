@@ -64,7 +64,8 @@
 								<p>Having studied overseas, it has exposed me a different type of culture and way of working. It has definitely given me a edge
 									in dealing with a wide array of future clients.  </p>
 								<ul class="actions">
-									<li><a class="button alt" role="button" data-toggle="collapse" href="#collapseExample" aria-expanded="false" aria-controls="collapseExample">View some of my projects here</a></li>
+									<li><a class="button alt" role="button" style="background-color:#BDC3C7;" data-toggle="collapse" href="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+									<p style="color:white;">View some of my projects here</p></a></li>
 								</ul>
 
 								<div class="collapse" id="collapseExample">
@@ -86,7 +87,7 @@
 													<a href="#" ><img src="images/final_logo.png" style="width:40%;"/></a>
 													<br><br>
 
-													<a class="button alt" style="background-color:#3498db;" href="http://128.199.244.148" target="_blank"><p style="color:white;">View Live Demo</p></a>
+													<a class="button alt" style="background-color:#364c61;" href="http://128.199.244.148" target="_blank"><p style="color:white;">View Live Demo</p></a>
 
 												</section>
 											</div>
