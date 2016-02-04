@@ -86,7 +86,7 @@
 													<a href="#" ><img src="images/final_logo.png" style="width:40%;"/></a>
 													<br><br>
 
-													<a class="button alt" style="background-color:#2ecc71;" href="http://128.199.244.148" target="_blank"><p style="color:white;">View Live Demo</p></a>
+													<a class="button alt" style="background-color:#3498db;" href="http://128.199.244.148" target="_blank"><p style="color:white;">View Live Demo</p></a>
 
 												</section>
 											</div>
@@ -117,7 +117,7 @@
 													<a href="#" ><img src="images/portfolioThumb.jpg" style="width:40%;"/></a>
 													<br><br>
 
-													<a class="button alt" style="background-color:#2ecc71;" href="PortfolioResume.pdf" target="_blank"><p style="color:white;">View my works</p></a>
+													<a class="button alt" style="background-color:#3498db;" href="PortfolioResume.pdf" target="_blank"><p style="color:white;">View my works</p></a>
 
 												</section>
 											</div>
@@ -249,9 +249,7 @@
 		<!-- Footer -->
 			<footer id="footer">
 				<div class="container">
-					<ul class="copyright">
-						<li>Design: <a href="http://templated.co">TEMPLATED</a></li>
-					</ul>
+					<p style="text-align:center;"> Thanks for reading through. Please feel free to contact me if you have any queries. </p>
 				</div>
 				
 			</footer>
